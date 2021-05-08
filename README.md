@@ -33,11 +33,8 @@ A new Flutter application.
   <li>and lastly scan button is there to extract the text.
 </ul>
 
-
-<div style="display:flex">
-  ![register](https://user-images.githubusercontent.com/83777309/117542121-f3ccb800-b034-11eb-8698-5cfb22660022.jpeg)
+![register](https://user-images.githubusercontent.com/83777309/117542121-f3ccb800-b034-11eb-8698-5cfb22660022.jpeg)
 ![email_password_signin](https://user-images.githubusercontent.com/83777309/117542131-00511080-b035-11eb-8dc8-7d6f476fae82.jpg)
 
-</div>
 
 
