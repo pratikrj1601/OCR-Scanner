@@ -1,7 +1,3 @@
-![OTP1](https://user-images.githubusercontent.com/83777309/117542549-b832ed80-b036-11eb-9286-493d09e4e075.jpeg)
-![OTP2](https://user-images.githubusercontent.com/83777309/117542534-aa7d6800-b036-11eb-8ddf-e87691eb18ac.jpeg)
-
-![OTP5](https://user-images.githubusercontent.com/83777309/117542542-b1a47600-b036-11eb-8b91-f52893613e39.jpeg)
 # ocr_scanner
 
 A new Flutter application.
@@ -38,13 +34,17 @@ A new Flutter application.
 </ul>
 
 ![register](https://user-images.githubusercontent.com/83777309/117542121-f3ccb800-b034-11eb-8698-5cfb22660022.jpeg) <hr>
-![login](https://user-images.githubusercontent.com/83777309/117542392-14e1d880-b036-11eb-8746-a9eb02c29005.jpeg)
+![login](https://user-images.githubusercontent.com/83777309/117542392-14e1d880-b036-11eb-8746-a9eb02c29005.jpeg)<hr>
+![OTP1](https://user-images.githubusercontent.com/83777309/117542578-d567bc00-b036-11eb-8bfc-f06fc75426e8.jpeg)<hr>
+![OTP2](https://user-images.githubusercontent.com/83777309/117542554-bb2dde00-b036-11eb-8f6f-40b91e46b7d4.jpeg)<hr>
+![OTP4](https://user-images.githubusercontent.com/83777309/117542592-ddbff700-b036-11eb-966b-daa98ec03173.jpeg)<hr>
+![OTP5](https://user-images.githubusercontent.com/83777309/117542556-bd903800-b036-11eb-8785-52895a40d2f4.jpeg)<hr>
+![scan](https://user-images.githubusercontent.com/83777309/117542770-8c643780-b037-11eb-8c16-07aebba8f247.jpeg)<hr>
+![WhatsApp Image 2021-04-23 at 4 34 32 PM](https://user-images.githubusercontent.com/83777309/117542776-94bc7280-b037-11eb-8525-d5ba04c1f790.jpeg)
 
 
-![OTP1](https://user-images.githubusercontent.com/83777309/117542578-d567bc00-b036-11eb-8bfc-f06fc75426e8.jpeg)
-![OTP2](https://user-images.githubusercontent.com/83777309/117542554-bb2dde00-b036-11eb-8f6f-40b91e46b7d4.jpeg)
-![OTP4](https://user-images.githubusercontent.com/83777309/117542592-ddbff700-b036-11eb-966b-daa98ec03173.jpeg)
-![OTP5](https://user-images.githubusercontent.com/83777309/117542556-bd903800-b036-11eb-8785-52895a40d2f4.jpeg)
+
+
 
 
 
